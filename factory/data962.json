@@ -1,0 +1,9 @@
+{
+	"name": "data962",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01963923-8dd7-4ca0-860e-5a66797c39c7",
+		"tenantId": "d2b044cb-1b2c-4f7e-ba9e-a0cc22d5b058"
+	}
+}
